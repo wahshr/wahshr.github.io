@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hi! This is dell's wip personal site ^_^ </h1>
+</body>
+</html>
