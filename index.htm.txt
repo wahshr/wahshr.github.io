@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<title>:3</title>
 <body>
 <h1> Hi! This is dell's wip personal site ^_^ </h1>
 </body>
